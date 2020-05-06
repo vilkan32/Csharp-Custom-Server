@@ -1,0 +1,8 @@
+C:\Users\velis\OneDrive\Desktop\RealExam\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
+C:\Users\velis\OneDrive\Desktop\RealExam\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\velis\OneDrive\Desktop\RealExam\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\velis\OneDrive\Desktop\RealExam\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
+C:\Users\velis\OneDrive\Desktop\RealExam\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
+C:\Users\velis\OneDrive\Desktop\RealExam\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
+C:\Users\velis\OneDrive\Desktop\RealExam\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\velis\OneDrive\Desktop\RealExam\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb
